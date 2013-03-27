@@ -12,6 +12,9 @@ int main (int argc, char *argv[]) {
 
 
 	// Lets count how many argument we received
+
+	// ERROR: This is a mistaken line
+
 	int num_args;
 	num_args = argc;
 
