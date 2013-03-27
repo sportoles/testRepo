@@ -20,6 +20,9 @@ int main (int argc, char *argv[]) {
 
 	// No error line this one
 
+	// Added another comment that should be
+	// only on name-seond branch
+
 	// Main output of the program
 	std::cout << "Hola mundo!" << std::endl;
 	return 0;
