@@ -26,6 +26,11 @@ int main (int argc, char *argv[]) {
 	// A num to intialize
 	int num = 2;
 
+	num_args_from_main ++;
+
+	// Next line should be valid for the both
+	float aFloat = 1.12;
+
 	// Main output of the program
 	std::cout << "Hola mundo!" << std::endl;
 	return 0;
