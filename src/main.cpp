@@ -18,6 +18,8 @@ int main (int argc, char *argv[]) {
 	int num_args;
 	num_args = argc;
 
+	// No error line this one
+
 	// Main output of the program
 	std::cout << "Hola mundo!" << std::endl;
 	return 0;
