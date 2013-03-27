@@ -23,7 +23,8 @@ int main (int argc, char *argv[]) {
 	// Added a second comment just in master
 
 	// A num to intialize
-	int num = 1;
+	int num = 2;
+
 
 	// Main output of the program
 	std::cout << "Hola mundo!" << std::endl;
