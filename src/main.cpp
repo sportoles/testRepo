@@ -23,6 +23,9 @@ int main (int argc, char *argv[]) {
 	// Added another comment that should be
 	// only on name-seond branch
 
+	// A num to intialize
+	int num = 2;
+
 	// Main output of the program
 	std::cout << "Hola mundo!" << std::endl;
 	return 0;
