@@ -10,6 +10,11 @@
 
 int main (int argc, char *argv[]) {
 
+
+	// Lets count how many argument we received
+	int num_args;
+	num_args = argc;
+
 	// Main output of the program
 	std::cout << "Hola mundo!" << std::endl;
 	return 0;
