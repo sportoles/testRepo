@@ -20,6 +20,8 @@ int main (int argc, char *argv[]) {
 
 	// No error line this one
 
+	// Added a second comment just in master
+
 	// Main output of the program
 	std::cout << "Hola mundo!" << std::endl;
 	return 0;
