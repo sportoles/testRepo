@@ -25,6 +25,8 @@ int main (int argc, char *argv[]) {
 	// A num to intialize
 	int num = 2;
 
+	// Something needed here
+
 	// Main output of the program
 	std::cout << "Hola mundo!" << std::endl;
 	return 0;
