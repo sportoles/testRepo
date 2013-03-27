@@ -15,8 +15,8 @@ int main (int argc, char *argv[]) {
 
 	// ERROR: This is a mistaken line
 
-	int num_args;
-	num_args = argc;
+	int num_args_from_main;
+	num_args_from_main = argc;
 
 	// No error line this one
 
