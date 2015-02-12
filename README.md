@@ -9,7 +9,8 @@ repo works
 ## GitHub
 
 This repository is stored at github.com with the user sportoles
-This user is related to the KU Leuven account.
+This user is related to the KU Leuven account. Instead, the primary
+address is sergio.portoles.
 
 ## SSH
 
